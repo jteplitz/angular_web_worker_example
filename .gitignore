@@ -1,0 +1,4 @@
+*.js
+!angular2/web_worker/*
+*.d.ts
+!typings/angular2/*
